@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDCAD", "BDCAD.csproj", "{D58E2850-8020-45C6-8FEA-4647E6FBA464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDCAD_BusinessLogic", "BDCAD_BusinessLogic\BDCAD_BusinessLogic.csproj", "{52CFEFDA-5717-4D70-908E-20B6C27BBC5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58E2850-8020-45C6-8FEA-4647E6FBA464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58E2850-8020-45C6-8FEA-4647E6FBA464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58E2850-8020-45C6-8FEA-4647E6FBA464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58E2850-8020-45C6-8FEA-4647E6FBA464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CFEFDA-5717-4D70-908E-20B6C27BBC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CFEFDA-5717-4D70-908E-20B6C27BBC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CFEFDA-5717-4D70-908E-20B6C27BBC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CFEFDA-5717-4D70-908E-20B6C27BBC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
