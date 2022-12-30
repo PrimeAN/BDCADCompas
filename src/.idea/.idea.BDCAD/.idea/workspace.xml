@@ -8,24 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aa62eac-720a-4d57-8665-a697d3f464c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BDCAD/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/BDCAD.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/BDCAD.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/BDCAD_BusinessLogic/BDCAD_BusinessLogic.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/BDCAD_BusinessLogic/Extensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/BDCAD_BusinessLogic/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/Extensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/MainForm.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/MainForm.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/MainForm.resx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/Properties/Resources.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/Properties/Resources.resx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/Properties/Settings.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BDCAD/Properties/Settings.settings" beforeDir="false" />
-    </list>
+    <list default="true" id="2aa62eac-720a-4d57-8665-a697d3f464c8" name="Changes" comment="Добавлена реализация по проекту системы" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +70,7 @@
       <workItem from="1646834987968" duration="126000" />
       <workItem from="1646835215750" duration="8000" />
       <workItem from="1646835249200" duration="376000" />
-      <workItem from="1672388842708" duration="301000" />
+      <workItem from="1672388842708" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="Удалены лишние примечания в ПС">
       <created>1646835561836</created>
@@ -96,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646835561836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавлена реализация по проекту системы">
+      <created>1672389394447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672389394447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Удалены лишние примечания в ПС" />
-    <option name="LAST_COMMIT_MESSAGE" value="Удалены лишние примечания в ПС" />
+    <MESSAGE value="Добавлена реализация по проекту системы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлена реализация по проекту системы" />
   </component>
 </project>
